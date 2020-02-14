@@ -1,4 +1,4 @@
-# Kaggle_Home_Depot_Search_Relevance-
+# Kaggle Home Depot Search Relevance
 Home Depot Search Relevance | Kaggle Competition Machine Learning Project
 - Constructed machine learning analytics to predict the relevance of search results for Home Depot's products
 - Conducted Exploratory Data Analysis, Data Preprocessing, and Feature Engineering i/ vectorization and SVD
